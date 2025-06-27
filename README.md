@@ -2,7 +2,7 @@
 
 A modern React + TypeScript + Vite application with automated CI/CD pipeline for DevSecOps best practices.
 
-[![Deploy to GitHub Pages](https://github.com/[username]/mba-devsecops-app/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/[username]/mba-devsecops-app/actions)
+[![Deploy to GitHub Pages](https://github.com/Romanti-Ezer/mba-devsecops-app/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/Romanti-Ezer/mba-devsecops-app/actions)
 
 ## 🎯 Project Overview
 
@@ -10,7 +10,7 @@ This project demonstrates the implementation of a complete CI/CD pipeline.
 
 ## 🚀 Live Demo
 
-Visit the deployed application: `https://[username].github.io/mba-devsecops-app/`
+Visit the deployed application: `https://Romanti-Ezer.github.io/mba-devsecops-app/`
 
 ## 🏗️ CI/CD Pipeline
 
@@ -56,7 +56,7 @@ The automated pipeline includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/mba-devsecops-app.git
+git clone https://github.com/Romanti-Ezer/mba-devsecops-app.git
 cd mba-devsecops-app
 
 # Install dependencies
